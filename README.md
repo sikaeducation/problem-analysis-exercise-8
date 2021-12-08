@@ -15,15 +15,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * 18 hours of work
-    * $7.25 per hour to work at the library
-    * $15 per hour to work at tutoring
-    * $161.50 total
   * Identifies the unknown
-    * How many hours were spent at the library
-    * How many hours were spent tutoring
   * Identifies the constraint
-    * All hours were worked
-    * The sum of the hours multiplied by the rate needs to add up to $161.50
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
